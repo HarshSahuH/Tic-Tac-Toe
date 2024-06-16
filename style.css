@@ -98,5 +98,7 @@
     /* we add this class when someone win  */
     background-color: rgba(0,255,0,0.3);
 }
-
+h1{
+    color: white;
+}
 
